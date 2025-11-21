@@ -31,6 +31,10 @@ Miami CourseAPI is a SpringBoot GraphQL service deployed to Railway that accepts
 
 ### ClassHelper [Github link](https://github.com/tomdh-git/ClassHelperV2)
 ClassHelper is the frontend that utilizes CourseAPI and provides a smooth, modern, and effective user experience to users. It is made using React and built using Electron. ClassHelper was inspired by a very similar Python project I made during my freshman year. 
+#### Skills used:
+- React/Electron
+- UX Design
+- Graphic Design
 
 ## Contact me!
 - Email: tomdh@miamioh.edu
